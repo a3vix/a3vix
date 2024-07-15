@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ash</h1>
+<h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">A passionate Bioinformatician from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/36/5e/6a/365e6ae930ca60d20e01f2b67af07647.gif">
 
